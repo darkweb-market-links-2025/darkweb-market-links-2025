@@ -81,3 +81,5 @@ Always verify your onion links. Mirrors provide additional accessibility.
 Darknet markets provide access to private, anonymous transactions. Adhering to security practices will ensure your safety. Always check URLs.
 
 Please contribute and add stars to this repo.
+
+Update: link is back up and live
