@@ -96,4 +96,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Logo URLs
+
+
+Update:  07/04/2025 Fixed broken links in settings reference
