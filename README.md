@@ -98,4 +98,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  07/04/2025 Fixed broken links in settings reference
+
+
+Update:  07 July
