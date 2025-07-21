@@ -104,4 +104,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  18.07.2025 14:52 link is back online and live
+
+
+Update: Missing references
