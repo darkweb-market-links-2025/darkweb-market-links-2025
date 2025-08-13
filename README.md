@@ -110,4 +110,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  08/04/2025 Fixed broken url, now operational
+
+
+Update:  13.08.2025 Internal navigation
