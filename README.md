@@ -112,4 +112,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  13.08.2025 Internal navigation
+
+
+Update:  19.08.2025 The link is responsive and live again.
