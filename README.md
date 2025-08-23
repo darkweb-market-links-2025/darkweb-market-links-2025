@@ -114,4 +114,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  19.08.2025 The link is responsive and live again.
+
+
+Update:  23.08.2025 Link is now functioning and live
